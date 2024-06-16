@@ -1,1 +1,1 @@
-very trivial assignment for freshman c++ programming course.
+Very trivial assignment for freshman c++ programming course.
